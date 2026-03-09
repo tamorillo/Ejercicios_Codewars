@@ -58,7 +58,7 @@ dart "Kata8/Reversed Strings.dart"
 
 ## 👤 Autor
 
-- **Tamara** - *Trabajo Inicial* - [TuGitHub](https://github.com/tu-usuario)
+- **Tamara** - *Trabajo Inicial* 
 
 ---
 *¡Gracias por visitar mi repositorio! Si te gusta, no olvides darle una ⭐*
